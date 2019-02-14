@@ -9,6 +9,8 @@
 | [4.x][]  | **Current Release** | 2018-01-18      | TBD              | TBD                   | TBD                       |
 | 5.x      | **Pending**         | TBD             | TBD              | TBD                   | TBD                       |
 
+**Warning:** Dates will vary widely and without notice. We are actively working on strengthening timeline assurances.
+
 [2.x]: https://getbootstrap.com/2.3.2/getting-started.html#download-bootstrap
 [3.x]: https://getbootstrap.com/docs/3.4/getting-started/#download
 [4.x]: https://getbootstrap.com/docs/4.3/getting-started/download/
