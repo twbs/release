@@ -11,6 +11,8 @@
 
 **Warning:** Dates will vary widely and without notice. We are actively working on strengthening timeline assurances.
 
+![LTS schedule](schedule.svg)
+
 [2.x]: https://getbootstrap.com/2.3.2/getting-started.html#download-bootstrap
 [3.x]: https://getbootstrap.com/docs/3.4/getting-started/#download
 [4.x]: https://getbootstrap.com/docs/4.3/getting-started/download/
