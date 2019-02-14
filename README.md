@@ -5,7 +5,7 @@
 | Release  | Status              | Initial Release | Active LTS Start | Maintenance LTS Start | End-of-life               |
 | :--:     | :---:               | :---:           | :---:            | :---:                 | :---:                     |
 | [2.x][]  | **End-of-life**     | 2013-07-18      | ?                | ?                     | ?                         |
-| [3.x][]  | **Maintenance LTS** | 2013-08-19      | ?                | 2016-09-05            | TBD                       |
+| [3.x][]  | **Maintenance LTS** | 2013-08-19      | 2014-11-01       | 2016-09-05            | TBD                       |
 | [4.x][]  | **Current Release** | 2018-01-18      | TBD              | TBD                   | TBD                       |
 | 5.x      | **Pending**         | TBD             | TBD              | TBD                   | TBD                       |
 
