@@ -5,11 +5,11 @@
 | Release  | Status              | Initial Release | Active LTS Start | Maintenance LTS Start | End-of-life               |
 | :--:     | :---:               | :---:           | :---:            | :---:                 | :---:                     |
 | [2.x][]  | **End-of-life**     | 2013-07-18      | -                | -                     | 2013-08-19                |
-| [3.x][]  | **Maintenance LTS** | 2013-08-19      | 2014-11-01       | 2016-09-05            | TBD                       |
-| [4.x][]  | **Current Release** | 2018-01-18      | TBD              | TBD                   | TBD                       |
-| 5.x      | **Pending**         | TBD             | TBD              | TBD                   | TBD                       |
+| [3.x][]  | **End-of-life**     | 2013-08-19      | 2014-11-01       | 2016-09-05            | 2019-07-24                |
+| [4.x][]  | **Active LTS**      | 2018-01-18      | 2019-02-14       | 2019-08-14            | 2020-02-14                |
+| 5.x      | **Active**          | TBD             | TBD              | TBD                   | TBD                       |
 
-**Warning:** Dates will vary widely and without notice. We are actively working on strengthening timeline assurances.
+**Warning:** Dates may vary widely. We are actively working on strengthening timeline assurances.
 
 ![LTS schedule](schedule.svg)
 
