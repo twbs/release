@@ -6,7 +6,7 @@
 | :--:     | :---:               | :---:           | :---:            | :---:                 | :---:                     |
 | [2.x][]  | **End-of-life**     | 2013-07-18      | -                | -                     | 2013-08-19                |
 | [3.x][]  | **End-of-life**     | 2013-08-19      | 2014-11-01       | 2016-09-05            | 2019-07-24                |
-| [4.x][]  | **Active LTS**      | 2018-01-18      | 2019-02-14       | 2019-08-14            | 2020-02-14                |
+| [4.x][]  | **Active LTS**      | 2018-01-18      | upon 4.4 release | 4.4 release + 6 months| 4.4 maintenance + 6 months|
 | 5.x      | **Active**          | TBD             | TBD              | TBD                   | TBD                       |
 
 **Warning:** Dates may vary widely. We are actively working on strengthening timeline assurances.
