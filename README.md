@@ -15,7 +15,7 @@
 
 [2.x]: https://getbootstrap.com/2.3.2/getting-started.html#download-bootstrap
 [3.x]: https://getbootstrap.com/docs/3.4/getting-started/#download
-[4.x]: https://getbootstrap.com/docs/4.3/getting-started/download/
+[4.x]: https://getbootstrap.com/docs/4.5/getting-started/download/
 
 ## Release plan
 
