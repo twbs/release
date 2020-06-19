@@ -2,12 +2,12 @@
 
 ## Release schedule
 
-| Release  | Status              | Initial Release | Active LTS Start | Maintenance LTS Start | End-of-life               |
-| :--:     | :---:               | :---:           | :---:            | :---:                 | :---:                     |
-| [2.x][]  | **End-of-life**     | 2013-07-18      | -                | -                     | 2013-08-19                |
-| [3.x][]  | **End-of-life**     | 2013-08-19      | 2014-11-01       | 2016-09-05            | 2019-07-24                |
-| [4.x][]  | **Active LTS**      | 2018-01-18      | 2019-11-26       | 2020-05-26            | 2020-11-26                |
-| 5.x      | **Active**          | TBD             | TBD              | TBD                   | TBD                       |
+| Release | Status          | Initial Release | Active LTS Start | Maintenance LTS Start | End-of-life |
+| :-----: | :-------------: | :-------------: | :--------------: | :-------------------: | :---------: |
+| [2.x][] | **End-of-life** | 2013-07-18      | -                | -                     | 2013-08-19  |
+| [3.x][] | **End-of-life** | 2013-08-19      | 2014-11-01       | 2016-09-05            | 2019-07-24  |
+| [4.x][] | **Active LTS**  | 2018-01-18      | 2019-11-26       | 2020-05-26            | 2020-11-26  |
+| 5.x     | **TBD**         | TBD             | TBD              | TBD                   | TBD         |
 
 **Warning:** Dates may vary widely. We are actively working on strengthening timeline assurances.
 
@@ -19,7 +19,7 @@
 
 ## Release plan
 
-New releases of Bootstrap are made from the `master` branch to the _Active_ major version. At times to be determined by the release working group, major versions will be frozen and transitioned to _Long Term Support_ (LTS). A long term support branch will be forked from `master`, making way for semver-major changes to be made on `master` and a new _Active_ major version to be prepared.
+New releases of Bootstrap are made from the `main` branch to the _Active_ major version. At times to be determined by the release working group, major versions will be frozen and transitioned to _Long Term Support_ (LTS). A long term support branch will be forked from `main`, making way for semver-major changes to be made on `main` and a new _Active_ major version to be prepared.
 
 A version in _Long Term Support_ should not have new features landed without a compelling reason. It may continue to receive:
 
