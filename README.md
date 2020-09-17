@@ -37,6 +37,20 @@ Versions in _Maintenance_ should not have any changes landed, except for:
 
 Unless a change is urgent, _Maintenance_ releases are likely to be made with minimal frequency.
 
+## Upcoming release schedule
+
+A rough schedule of releases has been included here for planning purposes.
+
+- **Bootstrap 4:**
+  - v4.5.3 in September 2020
+  - v4.6.0 in October 2020
+- **Bootstrap 5:**
+  - v5.0.0-alpha2 in September 2020
+  - v5.0.0-alpha3 in October 2020
+  - v5.0.0-beta1 in October 2020
+  - v5.0.0-beta2 in November 2020
+  - v5.0.0 in December 2020
+
 ## LTS team members
 
 ### Releasers
