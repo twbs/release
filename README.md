@@ -6,7 +6,7 @@
 | :-----: | :-------------: | :-------------: | :--------------: | :-------------------: | :---------: |
 | [2.x][] | **End-of-life** | 2013-07-18      | -                | -                     | 2013-08-19  |
 | [3.x][] | **End-of-life** | 2013-08-19      | 2014-11-01       | 2016-09-05            | 2019-07-24  |
-| [4.x][] | **Active LTS**  | 2018-01-18      | 2019-11-26       | 2020-05-26            | 2020-11-26  |
+| [4.x][] | **Active LTS**  | 2018-01-18      | 2019-11-26       | 2021-01-01            | 2022-01-01  |
 | 5.x     | **TBD**         | TBD             | TBD              | TBD                   | TBD         |
 
 **Warning:** Dates may vary widely. We are actively working on strengthening timeline assurances.
@@ -39,13 +39,13 @@ Unless a change is urgent, *Maintenance* releases are likely to be made with min
 
 A rough schedule of releases has been included here for planning purposes.
 
-### Bootstrap 4:
+### Bootstrap 4
 
 - v4.5.3 in September 2020 (bug fixes and docs)
 - v4.6.0 in October 2020 (feature alignment with v5)
 - v4.6.x in November 2020 (bug fixes and docs)
 
-### Bootstrap 5:
+### Bootstrap 5
 
 - v5.0.0-alpha2 in September 2020 (delayed due to team vacations)
 - v5.0.0-alpha3 in October 2020 (additional new features and breaking changes)
