@@ -41,8 +41,8 @@ A rough schedule of releases has been included here for planning purposes.
 
 ### Bootstrap 4
 
-- v4.5.3 in September 2020 (bug fixes and docs)
-- v4.6.0 in December 2020 (feature alignment with v5)
+- v4.5.3 in October 2020 (bug fixes and docs)
+- v4.6.0 in December 2020 (feature alignment with v5 and docs)
 - v4.6.x in January 2021 (bug fixes and docs)
 
 ### Bootstrap 5
