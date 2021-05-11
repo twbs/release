@@ -6,8 +6,8 @@
 | :-----: | :-------------: | :-------------: | :--------------: | :-------------------: | :---------: |
 | [2.x][] | **End-of-life** | 2013-07-18      | -                | -                     | 2013-08-19  |
 | [3.x][] | **End-of-life** | 2013-08-19      | 2014-11-01       | 2016-09-05            | 2019-07-24  |
-| [4.x][] | **Active LTS**  | 2018-01-18      | 2019-11-26       | 2021-07-01            | 2022-07-01  |
-| 5.x     | **TBD**         | TBD             | TBD              | TBD                   | TBD         |
+| [4.x][] | **Active LTS**  | 2018-01-18      | 2019-11-26       | 2021-11-01            | 2022-11-01  |
+| 5.x     | **Active LTS**  | 2021-05-05      | TBD              | TBD                   | TBD         |
 
 **Warning:** Dates may vary widely. We are actively working on strengthening timeline assurances.
 
@@ -43,15 +43,17 @@ A rough schedule of releases has been included here for planning purposes.
 
 - v4.5.3 in October 2020 (bug fixes and docs)
 - v4.6.0 in January 2021 (feature alignment with v5 and docs)
-- v4.6.x in February 2021 (bug fixes and docs)
+- v4.6.x in May 2021 (bug fixes and docs)
+- v4.7.x TBD
 
 ### Bootstrap 5
 
 - v5.0.0-alpha2 in September 2020 (delayed due to team vacations)
 - v5.0.0-alpha3 in October 2020 (additional new features and breaking changes)
 - v5.0.0-beta1 in December 2020 (final instance of breaking changes)
-- v5.0.0-beta2 in January 2021 (beta bug fixes, possibly a 3rd beta)
-- v5.0.0 in February 2021 (stable release)
+- v5.0.0-beta2 in January 2021 (beta features and bug fixes)
+- v5.0.0-beta3 in March 2021 (beta bug fixes)
+- v5.0.0 in May 2021 (stable release)
 
 ## LTS team members
 
