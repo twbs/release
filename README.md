@@ -7,7 +7,7 @@
 | [2.x][] | **End-of-life** | 2013-07-18      | -                | -                     | 2013-08-19  |
 | [3.x][] | **End-of-life** | 2013-08-19      | 2014-11-01       | 2016-09-05            | 2019-07-24  |
 | [4.x][] | **End-of-life** | 2018-01-18      | 2019-11-26       | 2021-11-01            | 2023-01-01  |
-| [5.x][] | **Active LTS**  | 2021-05-05      | TBD              | TBD                   | TBD         |
+| [5.x][] | **Active LTS**  | 2021-05-05      | 2022-07-19       | TBD                   | TBD         |
 
 **Warning:** Dates may vary widely. We are actively working on strengthening timeline assurances.
 
