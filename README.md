@@ -57,7 +57,8 @@ A rough schedule of releases has been included here for planning purposes.
 - v5.0.0 in May 2021 (stable release)
 - v5.1.0 in August 2021
 - v5.2.0 in July 2022 (beta in May 2022)
-- v5.3.0 in May 2023 (beta in December 2022)
+- v5.3.0 in May 2023 (alphas in December 2022 and in March and April 2023)
+- v5.4.0 TBD
 
 ### Bootstrap 6
 
